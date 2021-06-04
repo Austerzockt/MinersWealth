@@ -1,0 +1,9 @@
+name: MinersWealth
+version: ${project.version}
+main: io.github.austerzockt.minerswealth.MinersWealth
+api-version: 1.16
+prefix: MinersWealth
+depend: [ Vault ]
+authors: [ Auster ]
+description: Gives you money through Vault when you break blocks
+website: austerzockt.github.ío

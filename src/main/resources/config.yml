@@ -1,0 +1,5 @@
+blocks:
+  COAL_ORE:
+    money: 10
+    worlds:
+    - "world"
